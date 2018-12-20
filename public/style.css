@@ -5,3 +5,7 @@
 #content {
   margin-top: 3em;
 }
+
+.trash, .edit {
+  cursor: pointer;
+}
